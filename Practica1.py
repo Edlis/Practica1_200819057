@@ -98,7 +98,7 @@ else:
 			 
 		#print(variablesX + ' ' + variablesY+' '+alfa+' '+ iteraciones+' '+tolerancia+' ')
 	else:
-		print('No es correcta la cadena de entrada no sea menso!')
+		print('No es correcta la cadena de entrada, ingrese la cadena correcta')
 		#print(lista)
 		
 
